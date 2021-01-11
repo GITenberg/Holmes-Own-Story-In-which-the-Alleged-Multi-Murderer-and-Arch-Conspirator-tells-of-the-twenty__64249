@@ -1,11 +1,16 @@
 _repo: Holmes-Own-Story-In-which-the-Alleged-Multi-Murderer-and-Arch-Conspirator-tells-of-the-twenty__64249
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64249-h/images/cover.jpg
 creator:
   author:
     agent_name: Mudgett, Herman W.
     gutenberg_agent_id: '52816'
     url: http://www.gutenberg.org/2009/agents/52816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64249#Holmes-Own-Story-In-which-the-Alleged-Multi-Murderer-and-Arch-Conspirator-tells-of-the-twenty_
 gutenberg_issued: '2021-01-10'
 gutenberg_type: Text
 identifiers:
